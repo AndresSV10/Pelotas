@@ -1,0 +1,11 @@
+C:\Users\Andres\source\repos\Colision de Pelotas\WindowsFormsAppColision\obj\Debug\WindowsFormsAppColision.csproj.AssemblyReference.cache
+C:\Users\Andres\source\repos\Colision de Pelotas\WindowsFormsAppColision\obj\Debug\WindowsFormsAppColision.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andres\source\repos\Colision de Pelotas\WindowsFormsAppColision\obj\Debug\WindowsFormsAppColision.Form1.resources
+C:\Users\Andres\source\repos\Colision de Pelotas\WindowsFormsAppColision\obj\Debug\WindowsFormsAppColision.Properties.Resources.resources
+C:\Users\Andres\source\repos\Colision de Pelotas\WindowsFormsAppColision\obj\Debug\WindowsFormsAppColision.csproj.GenerateResource.cache
+C:\Users\Andres\source\repos\Colision de Pelotas\WindowsFormsAppColision\obj\Debug\WindowsFormsAppColision.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\Colision de Pelotas\WindowsFormsAppColision\bin\Debug\WindowsFormsAppColision.exe.config
+C:\Users\Andres\source\repos\Colision de Pelotas\WindowsFormsAppColision\bin\Debug\WindowsFormsAppColision.exe
+C:\Users\Andres\source\repos\Colision de Pelotas\WindowsFormsAppColision\bin\Debug\WindowsFormsAppColision.pdb
+C:\Users\Andres\source\repos\Colision de Pelotas\WindowsFormsAppColision\obj\Debug\WindowsFormsAppColision.exe
+C:\Users\Andres\source\repos\Colision de Pelotas\WindowsFormsAppColision\obj\Debug\WindowsFormsAppColision.pdb
